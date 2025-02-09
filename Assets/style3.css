@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:"Noto Serif", serif;
+}
+
+/*************Scissors*************/
+
+.scissors{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.scissors_2 ul, .scissors_3 ul{
+    display: flex;
+    gap: 25px;
+    font-size: 13px;
+}
+
+.scissors_2 ul li, .scissors_3 ul li{
+    list-style-type: none;
+}
+
+.scissors_3 ul li button, button{
+    border-radius: 15px;
+    background-color: #0065fe;
+    color: white;
+    font-size: 10px;
+    height: 30px;
+    width: 100px;
+
+}
+
+.scissors_3 ul li span{
+    color: #0065fe;
+}
+
+.Optimize{
+    font-size: 35px;
+    height: 150px;
+    width: 750px;
+   margin: 0 auto;
+   margin-top: 50px;
+    line-height: 70px;
+    text-align: center;
+}
+
+.url_shrt{
+    color: #0065fe;
+    position: relative;
+    
+}
+.url_shrt::after{
+content: url(./Media/Vector\ 3.svg);
+position: absolute;
+height: 20px;
+width: 174px;
+top: 25px;
+left: 20px;
+}
+
+.brand{
+    height: 80px;
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 11px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+.signup{
+    margin: 0 auto;
+    height: 60px;
+    width: 250px;
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
