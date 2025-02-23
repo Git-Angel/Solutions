@@ -173,6 +173,15 @@ width: 100%;
     width: 100%;
 }
 
+.gradientt{
+    height: 40px;
+    width: 6px;
+    background: linear-gradient(#1E3448,#1E344800);
+    position: relative;
+    left: 13%;
+    top: 20%;
+}
+
 .fit_1{
 position: absolute;
 height: 210px;
@@ -298,23 +307,31 @@ top: 20%;
 
                   .mother_1{
                     position: absolute;
-                    width: 80%;
+                    width: 65%;
                     height: 450px;
                     margin: 0 auto;
                     border: 1px solid #005AE2;
     box-shadow: 10px 10px 20px rgb(0.2, 0.2, 0.2, 0.5);
     border-radius: 10px;
-    left: 10%;
+    left: 18%;
     top: 80px;
  }
 
  .mother_2{
     height: 600px;
-    width: 30%;
+    width: 27%;
   background-color: #1E3448;
   border-radius: 10px;
   position: absolute;
-  left: 35%;
+  left: 38%;
   color: white;
-  text-align: center;
+  padding-left: 70px;
+  padding-top: 100px;
  }
+
+ .mother_1_1{
+    color: black;
+    padding-left: 60px;
+    padding-top: 20px;
+ }
+
