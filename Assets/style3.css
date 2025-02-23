@@ -315,6 +315,8 @@ top: 20%;
     border-radius: 10px;
     left: 18%;
     top: 80px;
+    display: flex;
+    justify-content: space-between;
  }
 
  .mother_2{
@@ -332,6 +334,12 @@ top: 20%;
  .mother_1_1{
     color: black;
     padding-left: 60px;
+    padding-top: 20px;
+ }
+
+ .mother_1_2{
+    color: black;
+    padding-right: 20px;
     padding-top: 20px;
  }
 
