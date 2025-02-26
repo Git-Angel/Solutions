@@ -325,7 +325,7 @@ top: 20%;
   background-color: #1E3448;
   border-radius: 10px;
   position: absolute;
-  left: 38%;
+  left: 37%;
   color: white;
   padding-left: 70px;
   padding-top: 100px;
@@ -339,7 +339,110 @@ top: 20%;
 
  .mother_1_2{
     color: black;
-    padding-right: 20px;
+    padding-right: 24px;
     padding-top: 20px;
  }
+
+ .btn{
+height: 200px;
+width: 100%;
+align-content: center;
+text-align: center;
+ }
+
+ .btn button{
+    border-radius: 30px;
+    font-size: 16px;
+    height: 50px;
+    width: 13%;
+    border-color: #0065fe;
+ }
+
+ .btn1{
+    color:#0065FE ;
+    background-color: white;
+margin-left: 15px;
+ }
+
+ .btn2{
+    background-color: #0065fe;
+    color: white;
+    margin-left: 15px;
+ }
+
+ .tend{
+    height: 520px;
+    width: 100%;
+    background: linear-gradient(#1E3448,#1E3448);
+    position: relative;
+ }
+
+.tend form{
+    height: 350px;
+    width: 32%;
+    background-color: #FFFFFF;
+    top: 15%;
+    position: absolute;
+    left: 35%;
+    border-radius: 12px;
+    padding: 50px;
+}
+
+.whot{
+    display: flex;
+    gap: 15px;
+    padding-bottom: 20px;
+}
+
+.whot2{
+    flex: 1;
+}
+
+ input::placeholder{
+    font-size: 14px;
+    color: #0065FE;
+}
+ 
+#url{
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #0065FE;
+    margin-bottom: 20px;
+}
+
+#alias{
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #0065FE;
+    /* margin-bottom: 20px; */
+}
+
+#name{
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #0065FE;
+    color: #0065fe;
+}
+
+.tend button{
+    width: 100%;
+    padding: 25px;
+    border-radius: 20px;
+    border: 1px solid #0065FE;
+   background-color: #005AE2; 
+   color: #FFFFFF;
+   font-size: 15px;
+   align-content: center;
+   text-align: center;
+}
+
+/* .create{
+    height: 1000px;
+    width: 100%;
+    background-color: pink;
+} */
+
 
