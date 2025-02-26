@@ -18,7 +18,7 @@
 .scissors_2 ul, .scissors_3 ul{
     display: flex;
     gap: 25px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .scissors_2 ul li, .scissors_3 ul li{
@@ -40,9 +40,9 @@
 }
 
 .Optimize{
-    font-size: 35px;
+    font-size: 45px;
     height: 150px;
-    width: 750px;
+    width: 850px;
    margin: 0 auto;
    margin-top: 50px;
     line-height: 70px;
@@ -64,14 +64,13 @@ left: 20px;
 }
 
 .brand{
-    height: 80px;
-    width:500px;
+    height: 60px;
+    width:650px;
     margin: 0 auto;
     text-align: center;
     margin-top: 10px;
-    font-size: 11px;
+    font-size: 15px;
     line-height: 20px;
-    padding: 10px;
 }
 
 .signup{
@@ -116,9 +115,9 @@ left: 20px;
 }
 
 .cone2_1{
-    font-size: 11px;
+    font-size: 15px;
     text-align: center;
-    line-height: 15px;
+    line-height: 22px;
 }
 
 .cone2_1 span{
@@ -140,7 +139,7 @@ width: 100%;
 }
 
 .four_1{
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .four_2{
@@ -155,7 +154,7 @@ width: 100%;
 }
 
 .put{
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .eclipse{
