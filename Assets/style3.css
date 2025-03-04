@@ -468,9 +468,15 @@ margin-left: 15px;
     padding-bottom: 30px;
 }
 
-/* .footer1{
-    height: 500px;
+.footer1{
+    height: 320px;
     width: 100%;
     background-color:#1E3448;
-} */
+}
+
+.footer2{
+    position: relative;
+    height: 500px; 
+    width: 100%;
+}
 
