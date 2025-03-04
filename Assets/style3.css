@@ -480,3 +480,75 @@ margin-left: 15px;
     width: 100%;
 }
 
+.Security{
+    position: absolute;
+    width: 24%;
+    height: 30px;
+    left: 70%;
+    top: 95%;
+}
+
+.Security ul{
+    display: flex;
+    gap: 5px;
+}
+
+.Security li{
+    list-style-type: none;
+}
+
+.why{
+    position: absolute;
+    width: 12%;
+    height: 20%;
+    left: 30%;
+    top: 20%;
+}
+
+.solutn{
+    position: absolute;
+    width: 12%;
+    height: 25%;
+    left: 45%;
+    top: 20%;
+}
+
+.prodct{
+    position: absolute;
+    width: 12%;
+    height: 20%;
+    left: 60%;
+    top: 20%;
+}
+
+.compny{
+    position: absolute;
+    width: 12%;
+    height: 36%;
+    left: 75%;
+    top: 20%;
+}
+
+.resors{
+    position: absolute;
+    width: 12%;
+    height: 43%;
+    left: 30%;
+    top: 55%; 
+}
+
+.featur{
+    position: absolute;
+    width: 12%;
+    height: 35%;
+    left: 45%;
+    top: 55%;
+}
+
+.legal{
+    position: absolute;
+    width: 12%;
+    height: 30%;
+    left: 60%;
+    top: 55%; 
+}
